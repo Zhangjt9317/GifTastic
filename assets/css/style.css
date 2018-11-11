@@ -1,0 +1,22 @@
+
+.jumbotron{
+	/*padding: 1%;*/
+	background-color: darkcyan;
+	color: #ffffff;
+}
+
+#animals{
+	padding: 15px;
+}
+
+.img{
+	border:solid black 1px;
+}
+
+.p{
+	font:bold;
+}
+
+div{
+	margin-bottom: 2%;
+}

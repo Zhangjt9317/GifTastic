@@ -1,5 +1,24 @@
-# GifTastic
-In this assignment, you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
+# giftastic
 
-![giphy image](https://uwa.bootcampcontent.com/UWA-Bootcamp/UWASEA201810FSF5/raw/master/06-Week/02-Homework/Instructions/Images/1-giphy.jpg)
+### Houston Coding Boot Camp - Assignment 6
 
+Instructions: 
+
+In this assignment, you'll create another fun and interactive game for web browsers. This time, your app must dynamically update your HTML pages with the jQuery library.
+
+### Getting Started
+
+<!-- Here's a preview of the game:
+
+![](https://media.giphy.com/media/l0IsGpyV0uVdbx1rG/giphy.gif "gif") -->
+
+Click on the link to see the finished product!  
+https://britpicazo.github.io/giftastic/
+
+
+### Built With
+
+* HTML5
+* CSS3
+* jQuery
+* Bootstrap
